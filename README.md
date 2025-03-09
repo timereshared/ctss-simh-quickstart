@@ -10,6 +10,21 @@ It is a small wrapper around two excellent creations of
 * The [reconstructed](https://github.com/rcornwell/ctss) CTSS
   operating system
 
+### s709 or simh?
+
+I have made two quickstart repos for CTSS, this one is using the simh
+emulator and the other one is using
+[s709](https://github.com/timereshared/ctss-s709-quickstart). Which
+one should you use?
+
+For beginners I would recommend starting with
+[s709](https://github.com/timereshared/ctss-s709-quickstart), as it
+has a complete set of tools to upload and download files easily. simh
+is a good choice if you have used it before for other emulators, and
+it has a more powerful configuration and automation language. Try both
+and see which you prefer!
+
+
 ## Prerequisites
 
 You will need a Unix-like environment capable of running a shell, git,
